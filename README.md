@@ -1,7 +1,4 @@
 # Loan-Approval-Prediction
-# Loan Approval Prediction Project
-
-![](https://miro.medium.com/v2/resize:fit:640/1*UC0sy0bENl-DLPy3jmXNag.jpeg)
 
 ## Project Overview
 
